@@ -1,0 +1,31 @@
+{
+  "name": "babel-preset-true",
+  "version": "1.0.0",
+  "description": "A babel preset for transforming your JavaScript for True",
+  "main": "index.js",
+  "author": {
+    "name": "Fahad Ibnay Heylaal",
+    "email": "fahad@true.nl",
+    "url": "http://fahad19.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:true/babel-preset.git"
+  },
+  "keywords": [
+    "babel",
+    "es6",
+    "es2015",
+    "es2016",
+    "preset",
+    "javascript"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "babel-plugin-add-module-exports": "~0.1.1",
+    "babel-plugin-transform-decorators-legacy": "~1.2.0",
+    "babel-preset-es2015": "~6.3.13",
+    "babel-preset-react": "~6.3.13",
+    "babel-preset-stage-0": "~6.3.13"
+  }
+}
