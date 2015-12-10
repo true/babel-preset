@@ -31,3 +31,7 @@ require('babel-core').transform('foo', {
   presets: ['true']
 });
 ```
+
+## License
+
+MIT © [True](https://true.nl)

@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-true",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A babel preset for transforming your JavaScript for True",
   "main": "index.js",
   "author": {
