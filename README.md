@@ -34,4 +34,4 @@ require('babel-core').transform('foo', {
 
 ## License
 
-MIT © [True](https://true.nl)
+MIT © [True B.V.](https://true.nl)
